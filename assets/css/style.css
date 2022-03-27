@@ -426,6 +426,7 @@ header {
     -moz-column-gap: 1.25rem;
     column-gap: 1.25rem;
     align-items: center;
+    grid-gap: 1.25rem;
 }
 
 .coin-3 {
@@ -592,7 +593,7 @@ input[type="range"]::-moz-range-progress {
     font-weight: 600;
     width: 100%;
     border-radius: 2.5rem;
-    font-size: 0.938rem;
+    font-size: 0.838rem;
     height: 3.375rem;
     padding: 0 13.125rem 0 2rem;
     text-transform: uppercase;
@@ -760,10 +761,13 @@ footer .section-title {
 /* Modal CSS */
 
 .backdrop {
-    inset: 0 0 0 0;
     background-color: rgba(var(--bg-color), 0.8);
     position: fixed;
     z-index: 99;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -786,6 +790,7 @@ footer .section-title {
     border-radius: 2.813rem;
     transition: 0.2s all ease-in-out;
     transform: translateY(-50px) scale(0.7);
+    overflow: hidden;
 }
 
 .backdrop.show .modal {

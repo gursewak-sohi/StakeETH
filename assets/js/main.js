@@ -1,3 +1,9 @@
+// Scroll to Top
+window.onbeforeunload = function() {
+    window.scrollTo(0, 0);
+}
+
+
 // Only Numbers Allowed In Input Field
 let staking = document.getElementById("staking");
 staking.onkeypress = () => {
