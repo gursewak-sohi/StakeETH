@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="59px" viewBox="0 0 37 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-642.000000, -27.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(642.500000, 27.000000)">
+                <polygon id="Path" fill="#9DA5C1" points="17.753452 0.923115636 0.0971380748 30.2226278 17.753452 22.1977218"></polygon>
+                <polygon id="Path" fill="#757DA1" points="17.753452 22.1974985 0.0971380748 30.2223797 17.753452 40.6617961"></polygon>
+                <polygon id="Path" fill="#757DA1" points="35.4228782 30.2226278 17.753452 0.923115636 17.753452 22.1977218"></polygon>
+                <polygon id="Path" fill="#555D89" points="17.752807 40.6617961 35.412309 30.2223797 17.752807 22.1974985"></polygon>
+                <polygon id="Path" fill="#9DA5C1" points="0.0971380748 33.5725102 17.753452 58.4557202 17.753452 44.0054759"></polygon>
+                <polygon id="Path" fill="#757DA1" points="17.752807 44.0054759 17.752807 58.4557202 35.4222331 33.5725102"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
